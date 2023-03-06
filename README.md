@@ -1,0 +1,1 @@
+This is my Chess engine project. I am starting with building the actual game first, then building a chess AI based on deepmind's Alphazero, rather than taking the traditional chess engine approach of engines such as stockfish.
